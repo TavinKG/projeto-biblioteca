@@ -1,5 +1,5 @@
-<h1 align="center">Lista de Contatos</h1>
-<p align="center">Projeto de Estrutura de Dados utilizando linguagem C.</p>
+<h1 align="center">Projeto Biblioteca</h1>
+<p align="center">Projeto de Programação Full-Stack utilizando PHP.</p>
 
 ![GitHub language count](https://img.shields.io/github/languages/count/TavinKG/projeto-biblioteca?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/TavinKG/projeto-biblioteca?style=for-the-badge)
@@ -10,8 +10,8 @@
 
 
 <h1 align="center">Introdução</h1>
-<p>Projeto Acadêmico realizado para obter aprovação em Estrutura de Dados.</p>
-<p>Consiste em uma agenda de contatos em linguagem C utilizando listas.</p>
+<p>Projeto Acadêmico realizado para obter aprovação em Desenvolvimento Full Stack e Banco de Dados.</p>
+<p>Consiste em um sistema de biblioteca em linguagem PHP, JS e SQL.</p>
 
 ### 🛠 Tecnologias
 
