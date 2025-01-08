@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1 align="center">Funcionalidades do Projeto</h1>
 
 - `Cadastro de clientes e Login de funcionários`: O sistema exige que os funcionários realizem login para acessar as funcionalidades. Os clientes devem ser cadastrados no sistema para que possam usufruir dos serviços;
-- `Operações CRUD com os livros`: Permite adicionar, buscar, atualizar e remover registros de livros, garantindo a manutenção de um catálogo atualizado;
-- `Registrar empréstimos de livros`: Os funcionários podem registrar os empréstimos dos livros solicitados pelos clientes, acompanhando o histórico de transações;
-- `Adicionar multas para atrasos`: Funcionalidade para aplicar e registrar multas aos clientes que não devolverem os livros no prazo estipulado;
-- `Registrar o estoque de livros`: O sistema mantém o controle do estoque de cada livro, possibilitando a visualização de quantidades disponíveis.
+- `Gestão de Livros (CRUD)`: Permite adicionar, buscar, atualizar e remover registros de livros, garantindo a manutenção de um catálogo atualizado;
+- `Registro de Empréstimos`: Os funcionários podem registrar os empréstimos dos livros solicitados pelos clientes, acompanhando o histórico de transações;
+- `Controle de Multas por Atraso`: Funcionalidade para aplicar e registrar multas aos clientes que não devolverem os livros no prazo estipulado;
+- `Gerenciamento de Estoque`: O sistema mantém o controle do estoque de cada livro, possibilitando a visualização de quantidades disponíveis.
