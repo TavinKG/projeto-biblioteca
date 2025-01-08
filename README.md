@@ -17,11 +17,16 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Linguagem C](https://en.cppreference.com/w/c/language)
-- [CodeBlocks](https://www.codeblocks.org/)
+- [PHP](https://www.php.net/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [MySql Workbench](https://www.mysql.com/products/workbench/)
+- [Bootstrap](https://getbootstrap.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 <h1 align="center">Funcionalidades do Projeto</h1>
 
-- `Realizar operações de CRUD para contato`: Inserir, consultar, editar e excluir contatos da lista;
-- `Salvar a lista em um arquivo binário`: Função que salva a lista de contatos em um arquivo .bin;
-- `Carregar uma lista de um arquivo binário`: Função que carrega a lista de contatos a partir de um arquivo .bin.
+- `Cadastro de clientes e Login de funcionários`: O sistema exige que os funcionários realizem login para acessar as funcionalidades. Os clientes devem ser cadastrados no sistema para que possam usufruir dos serviços;
+- `Operações CRUD com os livros`: Permite adicionar, buscar, atualizar e remover registros de livros, garantindo a manutenção de um catálogo atualizado;
+- `Registrar empréstimos de livros`: Os funcionários podem registrar os empréstimos dos livros solicitados pelos clientes, acompanhando o histórico de transações;
+- `Adicionar multas para atrasos`: Funcionalidade para aplicar e registrar multas aos clientes que não devolverem os livros no prazo estipulado;
+- `Registrar o estoque de livros`: O sistema mantém o controle do estoque de cada livro, possibilitando a visualização de quantidades disponíveis.
